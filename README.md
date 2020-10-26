@@ -21,7 +21,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 
 ##
 
-<img align="right" alt="GIF" width="300px" src="https://i.pinimg.com/236x/dc/ef/3a/dcef3abedf0e0761203aaeb85886a6f3--jedi-knight-open-source.jpg" />
+<img align="right" alt="GIF" width="300px" src="https://image.freepik.com/free-vector/programmer-concept-illustration_114360-2284.jpg" />
 
 **Talking about Personal Stuffs:**
 
