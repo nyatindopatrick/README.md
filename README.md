@@ -25,7 +25,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning `Advanced React`
+- 🌱 I’m currently learning `AWS Devops`
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: Anything is possible
 - 📫 How to reach me: nyatindopatrick@gmail.com
