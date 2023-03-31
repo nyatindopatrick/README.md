@@ -16,7 +16,7 @@
 Hi, I'm Patrick Nyatindo, a Full Stack Developer 🚀. I'm a creative problem solving enthusiast, with a constantly growing love for languages.
 Passionate about ideating, conceptualizing and producing consumer-centric as well as technology-enabled products from level zero. Open for exploring exciting full-stack development opportunities in startups as well as companies with scale.
 
-<img align="right" alt="GIF" width="300px" src="https://image.freepik.com/free-vector/programmer-concept-illustration_114360-2284.jpg" />
+
 
 **Talking about Personal Stuffs:**
 
@@ -26,7 +26,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 - 📫 How to reach me: nyatindopatrick@gmail.com
 
 
-**Languages and Tools:**
+## Languages and Tools:
 
 ![](https://img.shields.io/badge/Node.js-informational?logo=node.js&logoColor=fabd2f&color=282828)
 
